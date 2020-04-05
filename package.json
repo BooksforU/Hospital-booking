@@ -1,8 +1,6 @@
 {
   "name": "react-webpack-hellowrold",
-  "scripts": {
-    "start": "node node_modules/webpack-dev-server/bin/webpack-dev-server.js"
-  },
+  
   "dependencies": {
     "@babel/polyfill": "^7.8.7",
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
